@@ -15,11 +15,11 @@ I code mainly in Python but have used php and bash for smaller projects.
 #### [SFSF_KBAs](https://github.com/rthennan/SFSF_KBAs)  - List of Knowledge Base Articles I had published for SAP SuccessFactors while I was working as a Support Engineer at SAP.  
 
 ### Python Projects:
-- [ZerodhaWebsocket](https://github.com/rthennan/ZerodhaWebsocket) - Python + MariaDB
+- [ZerodhaWebsocket](https://github.com/rthennan/ZerodhaWebsocket) - Python + MariaDB  
   Automate acquiring and storing tick data for NSE (India) trading instruments, from Zerodha (an Indian Stock Broker).
-- [sttp-srec-aug2020](https://github.com/rthennan/sttp-srec-aug2020) - Python - Tensorflow 2.0
-  Presentation and Code for a Medical Image classification (CNN +ANN) presentiation.
-- [timeSeriesFail](https://github.com/rthennan/timeSeriesFail) - Python - Tensorflow 2.0
+- [sttp-srec-aug2020](https://github.com/rthennan/sttp-srec-aug2020) - DeepLearning - (Python + Tensorflow 2.0)  
+  Presentation and Code for a Medical Image classification (CNN + ANN) presentiation.
+- [timeSeriesFail](https://github.com/rthennan/timeSeriesFail) - Python - Tensorflow 2.0  
   My Failed attempts at an intraday trading stratergy, using NIFTY and BANKNIFTY tickdata and tensorflow 2.0. (ANN/MLP, 1D CNN and LSTM).  
   While the Project was technically successfull, it wasn't functional since the predication accuracy for a binary classification was just over 50%.    
 
