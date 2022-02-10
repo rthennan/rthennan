@@ -10,7 +10,7 @@ So most of the repos here are from my personal Projects.
 I code mainly in Python but have used php and bash for smaller projects.  
 
 - 🌱 I’m currently learning neo4j 
-- 💬 Ask me about Problem Solving 
+- 💬 Ask me about Problem Solving and Knowledge Sharing
 
 #### [SFSF_KBAs](https://github.com/rthennan/SFSF_KBAs)  - List of Knowledge Base Articles I had published for SAP SuccessFactors while I was working as a Support Engineer at SAP.  
 
