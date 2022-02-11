@@ -26,12 +26,12 @@ I code mainly in Python but have used php and bash for smaller projects.
   My Failed attempts at an intraday trading stratergy, using NIFTY and BANKNIFTY tickdata and tensorflow 2.0. (ANN/MLP, 1D CNN and LSTM).  
   While the Project was technically successfull, it wasn't functional since the predication accuracy for a binary classification was just over 50%.    
 
-### Raspberry Pi projects (not strictly IoT though):
-- [RPiController](https://github.com/rthennan/RPiController) - PHP + RPi GPIO
-  Control Relays connected to a RaspberryPi through a Browser
-- [mainsChecker](https://github.com/rthennan/mainsChecker) - Python
-  Use a Raspberry Pi to check the AC Mains (city powerline) status and power off/sleep/hibernate a host connected to a UPS.
-- [ipChangeCheck](https://github.com/rthennan/ipChangeCheck) - Bash
+### Raspberry Pi projects (not strictly IoT though):  
+- [RPiController](https://github.com/rthennan/RPiController) - PHP + RPi GPIO  
+  Control Relays connected to a RaspberryPi through a Browser  
+- [mainsChecker](https://github.com/rthennan/mainsChecker) - Python  
+  Use a Raspberry Pi to check the AC Mains (city powerline) status and power off/sleep/hibernate a host connected to a UPS.  
+- [ipChangeCheck](https://github.com/rthennan/ipChangeCheck) - Bash  
   Bash script to alert about Public IP(v4) changes, and also include the Private IP address.
 
 
